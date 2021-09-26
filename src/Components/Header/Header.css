@@ -1,0 +1,18 @@
+.header{
+    width: 75%;
+    text-align: center;
+    background-color:rgb(243, 192, 243);
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.logo{
+    height: 100px;
+    width: 150px;
+}
+.header h1{
+    color: saddlebrown;
+    font-size: 20px;
+}
