@@ -1,6 +1,6 @@
 # Game of Thrones
 
-This project was bootstrapped with [Game of Thrones](https://github.com/ProgrammingHeroWC4/the-superhero-direction-raisanowreen).
+This project was bootstrapped with [Game of Thrones](https://game-of-thrones-series.netlify.app/).
 
 ## project title
 The project title is Game of Thrones and the main goal of crerating the project is to practice how to work on SPA with react functionalities.
