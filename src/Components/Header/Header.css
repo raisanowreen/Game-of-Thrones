@@ -1,18 +1,18 @@
 .header{
     width: 75%;
     text-align: center;
-    background-color:#411b41;
+    background-color:transparent;
     border-radius: 10px;
     margin: auto;
-    padding: 10px;
+    padding-top: 150px;
+    padding-bottom: 15px;
     margin-top: 20px;
     margin-bottom: 5px;
-}
-.logo{
-    height: 100px;
-    width: 150px;
+    background-image: url('https://www.geekfeed.com/wp-content/uploads/2019/03/04-Game-of-Thrones-8.jpg');
 }
 .header h1{
-    color: white;
-    font-size: 20px;
+    color: rgb(250, 246, 246);
+    background-color: teal;
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
 }

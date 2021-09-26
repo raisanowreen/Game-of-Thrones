@@ -12,6 +12,7 @@
 }
 .cast-display h3{
     color: rgb(227, 241, 241);
+    font-family: 'Cinzel', serif;
     font-size: medium;
     text-align: center;
     padding-top: 10px;
@@ -26,4 +27,5 @@
     margin-left: 28%;
     margin-top: 5px;
     color: white;
+    font-family: 'Cinzel', serif;
 }

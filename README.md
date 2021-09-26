@@ -17,5 +17,5 @@ In the project, the connection with eventhandler and cart is the main purpose to
 
 ### utiities
 
-Vanilla css & React font awesome has been used in the project by creating react app. The project is deployed in netlify. The api of casts data is manually created.
+Vanilla css, react font awesome & cinzel medium 500 as font family has been used in the project by creating react app. The project is deployed in netlify. The api of casts data is manually created.
 
