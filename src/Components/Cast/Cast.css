@@ -1,0 +1,28 @@
+.cast-display{
+    border:1px solid grey;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #586551;
+    padding-bottom: 15px;
+}
+.cast-display img{
+    height: 190px;
+    width: 280px;
+    padding: 10px;
+}
+.cast-display h3{
+    color: rgb(227, 241, 241);
+    font-size: medium;
+    text-align: center;
+    padding-top: 10px;
+}
+.purchase-button{
+    background-color: rgb(187, 178, 178);
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-left: 30%;
+    margin-top: 5px;
+}

@@ -1,7 +1,7 @@
 .header{
     width: 75%;
     text-align: center;
-    background-color:rgb(243, 192, 243);
+    background-color:#586551;
     border-radius: 10px;
     margin: auto;
     padding: 10px;
@@ -13,6 +13,6 @@
     width: 150px;
 }
 .header h1{
-    color: saddlebrown;
+    color: white;
     font-size: 20px;
 }
