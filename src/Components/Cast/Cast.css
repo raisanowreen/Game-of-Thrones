@@ -2,7 +2,7 @@
     border:1px solid grey;
     border-radius: 10px;
     margin: 10px;
-    background-color: #586551;
+    background-color: #7a657a;
     padding-bottom: 15px;
 }
 .cast-display img{
@@ -17,12 +17,13 @@
     padding-top: 10px;
 }
 .purchase-button{
-    background-color: rgb(187, 178, 178);
+    background-color: #411b41;
     border-radius: 10px;
     padding-top: 5px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 5px;
-    margin-left: 30%;
+    margin-left: 28%;
     margin-top: 5px;
+    color: white;
 }

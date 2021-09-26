@@ -10,6 +10,7 @@ const Cart = (props) => {
         name = name + cast.name + ', ' ;
     }
     return (
+        // cart details displaying
         <div>
            <h1>Cast Added:{props.cart.length}</h1>
 <h1>Total Cost: ${worth}</h1>
