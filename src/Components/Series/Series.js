@@ -31,6 +31,7 @@ const Series = () => {
            {/* // dynamic cast details , cart details & eventhandler passing */}
 {
     casts.map(cast => <Cast 
+    key = {cast.id}
     cast={cast}
     handleAddToCart = {handleAddToCart}
     ></Cast>)
